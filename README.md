@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikasrai007
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, Javascript, C++ 
+- 🌱 I’m currently learning game development 
 - 💞️ I’m looking to collaborate on Student
 - 📫 How to reach me for email vikasrai7566@gamil.com
 
